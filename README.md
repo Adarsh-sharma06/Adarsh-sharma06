@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adarsh-sharma06
 - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning php 
-- 💞️ I’m looking to collaborate on Web Desigming
+- 💞️ I’m looking forward to work as an front end devloper
 - 📫 How to reach me Email me : adarshsharma06042001@gmail.com
 
 <!---
