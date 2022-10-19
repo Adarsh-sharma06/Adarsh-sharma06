@@ -1,12 +1,10 @@
 
+
+
+
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
 <h3 align="center">I am a student of MCA. Looking forward to work as an frontend devloper</h3>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-sharma06&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-sharma06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-sharma06" alt="adarsh-sharma06" /></a> </p>
 
 - 🌱 I’m currently learning **Java, ASP .NET**
 
@@ -29,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-sharma06&show_icons=true&locale=en" alt="adarsh-sharma06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-sharma06&" alt="adarsh-sharma06" /></p>
 
 
 [![MasterHead](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://rishavchanda.io)
