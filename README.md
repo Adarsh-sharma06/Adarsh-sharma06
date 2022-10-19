@@ -1,5 +1,4 @@
-
-
+[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
