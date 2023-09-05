@@ -12,11 +12,10 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🌱 I’m currently learning **Java, ASP .NET**
-- 💬 Ask me about **HTML, PHP, PYTHON, CSS, JS, C, C++**
+- 🌱 I’m currently learning **React Native**
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me **devduttadarsh6@gmail.com**
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 <br/>
 <br/>
