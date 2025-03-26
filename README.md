@@ -89,14 +89,6 @@
 - 🔨 Built a product & service-based company website.  
 - 🌍 Hosted on **Hostinger**.  
 
-### 🏢 **[HRMS Software - Doordarshan](https://hrms.ddnewsgujarati.com/)**  
-- 📊 Created Admin & Employee sections.  
-- 🏗️ Built with **MERN Stack**.  
-
-### 🚗 **[Car Booking Web App](https://doordarshan.vercel.app/)**  
-- 📍 Live **Vehicle Tracking** with Firebase.  
-- 🚀 Integrated **AI for automation**.  
-
 ---
 
 ## 📊 **GitHub Stats**
