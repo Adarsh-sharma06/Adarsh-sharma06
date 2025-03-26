@@ -1,66 +1,105 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://adarsh6.vercel.app)
 
-<h1 align="center">नमस्ते (Namaste), I'm Adarsh Sharma</h1>
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
-  
-A **23Y/O** Software🌈 and Web Developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation, and Automation :robot:. 
+<h1 align="center"> 🙏 नमस्ते (Namaste), I'm Adarsh Sharma</h1>
+<h3 align="center"> 🚀 Full-Stack Developer | MERN | DevOps Enthusiast </h3>
 
-![age](https://img.shields.io/badge/age-23-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Mehsana-3c9)
+<p align="center">
+  <img src="https://img.shields.io/badge/age-23-blue" />
+  <img src="https://img.shields.io/badge/focus-FullStack-brightgreen" />
+  <img src="https://img.shields.io/badge/living-Mehsana-3c9" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **Web Development, DevOps, and Cloud Technologies**
-- 📫 How to reach me: **devduttadarsh6@gmail.com**
-- 😄 Pronouns: he/him/his
+💡 **About Me:**  
+- 🔥 Passionate about Full-Stack Development, DevOps, and Cloud Technologies.  
+- 🔄 Automating workflows, improving efficiency, and solving scalability problems.  
+- 🌱 Currently Learning **React Native & AWS**  
+- 💬 Ask me about **Web Development, MERN Stack, DevOps, and Cloud**  
+- 📧 How to reach me: **[devduttadarsh6@gmail.com](mailto:devduttadarsh6@gmail.com)**  
+- 🌍 Portfolio: [adarsh6.vercel.app](https://adarsh6.vercel.app/)  
 
 ---
 
-### 🌐 Connect with me:
+## 🌐 **Connect with Me**  
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-sharma06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh sharma" height="30" width="60" /></a>
-<a href="https://instagram.com/adarsh6_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh6_sharma" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/adarsh-sharma06/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-sharma" height="30" width="60" />
+</a>
+<a href="https://instagram.com/adarsh6_sharma" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh6_sharma" height="30" width="60" />
+</a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-
+## 🛠️ **Tech Stack & Tools**
+  
 <p align="left"> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="60" height="60" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60" />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🏆 **Achievements & Awards**
+🎖 **2nd Position in CODENIGMA** at CMPICA, Charusat University (2022)  
+🏆 **1st Runner-up in CVMU Hackathon** at ADIT, VVnagar, Anand (2024)  
+🥇 **College Topper** in MCA (2022-23) & (2023-24) at ISTAR, Anand  
+
+---
+
+## 📜 **Experience**  
+
+### **🚀 Software Developer @ Doordarshan, Ahmedabad (2024 - Present)**
+- 🔧 Managing and updating existing software systems.  
+- 📱 Developing new web and mobile applications.  
+- ☁️ Handling AWS hosting for various projects.  
+
+### **🛠️ Internship @ Dev Engineering, Mehsana (2024)**
+- 🚀 Built a **MERN Stack Web App**.  
+- 📱 Created a **React Native Mobile App**.  
+- 🔌 Developed **Arduino Hardware Integration**.  
+
+### **💻 Freelance Web Developer @ Anand (2023)**
+- 🎨 Designed and hosted a **Static Website**.  
+- 🚀 Managed Plesk hosting & deployment.  
+
+---
+
+## 💻 **Projects**  
+
+### 🚀 **[TechTrio Website](https://techtrio.net/)**  
+- 🔨 Built a product & service-based company website.  
+- 🌍 Hosted on **Hostinger**.  
+
+### 🏢 **[HRMS Software - Doordarshan](https://hrms.ddnewsgujarati.com/)**  
+- 📊 Created Admin & Employee sections.  
+- 🏗️ Built with **MERN Stack**.  
+
+### 🚗 **[Car Booking Web App](https://doordarshan.vercel.app/)**  
+- 📍 Live **Vehicle Tracking** with Firebase.  
+- 🚀 Integrated **AI for automation**.  
+
+---
+
+## 📊 **GitHub Stats**
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-sharma06&show_icons=true&locale=en&layout=compact" alt="adarsh-sharma06" />
 </p>
@@ -71,7 +110,10 @@ A **23Y/O** Software🌈 and Web Developer🎯 from India. I'm passionate about 
 
 ---
 
-### ⭐ Show some love!
-If you like my work, consider **starring ⭐ some repositories**.
+## ✨ **Fun Animation!**
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-[![MasterHead](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://rishavchanda.io)
+---
+
+## ⭐ **Show Some Love**
+If you like my work, consider **starring ⭐ some repositories** and following me! 🚀  
